@@ -1,6 +1,6 @@
 {
-  "name": "drupal/file_download",
-  "type": "drupal-module",
+  "name": "pcrc/file_download",
+  "type": "drupal-custom-module",
   "description": "File Download",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
